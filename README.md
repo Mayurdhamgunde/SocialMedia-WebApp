@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Basic WebApp built using React and BootStrap✨
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img alt="socialMediaAppimg2" src="https://github.com/Mayurdhamgunde/SocialMedia-WebApp/blob/master/ProjectSnaps/socialMediaWebApp2.png?raw=true" width="92%"/>
+<hr width="92%">
+<img alt="socialMediaAppimg1" src="https://github.com/Mayurdhamgunde/SocialMedia-WebApp/blob/master/ProjectSnaps/socialMediaWebApp1.png?raw=true" width="92%"/>
